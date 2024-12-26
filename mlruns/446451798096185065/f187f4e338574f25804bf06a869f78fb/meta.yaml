@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/446451798096185065/f187f4e338574f25804bf06a869f78fb/artifacts
+deleted_time: 1734877417596
+end_time: 1734877020466
+entry_point_name: ''
+experiment_id: '446451798096185065'
+lifecycle_stage: deleted
+run_id: f187f4e338574f25804bf06a869f78fb
+run_name: burly-pug-844
+run_uuid: f187f4e338574f25804bf06a869f78fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734877017375
+status: 3
+tags: []
+user_id: razinsurya

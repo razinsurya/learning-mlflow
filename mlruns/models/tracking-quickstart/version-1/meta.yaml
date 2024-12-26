@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1734789973617
+current_stage: None
+description: ''
+last_updated_timestamp: 1734789973617
+name: tracking-quickstart
+run_id: 651387dd03bb46c4b9e97186ec4abaaa
+run_link: ''
+source: mlflow-artifacts:/446451798096185065/651387dd03bb46c4b9e97186ec4abaaa/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/446451798096185065/651387dd03bb46c4b9e97186ec4abaaa/artifacts/iris_model
+user_id: null
+version: 1

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/446451798096185065/56dbd9dac0094fc194a049789e6931af/artifacts
+deleted_time: 1734877417592
+end_time: 1734876789142
+entry_point_name: ''
+experiment_id: '446451798096185065'
+lifecycle_stage: deleted
+run_id: 56dbd9dac0094fc194a049789e6931af
+run_name: upset-kit-254
+run_uuid: 56dbd9dac0094fc194a049789e6931af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734876785817
+status: 3
+tags: []
+user_id: razinsurya

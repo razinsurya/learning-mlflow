@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/446451798096185065/944f3442a3e94a32b27a9804e2f35206/artifacts
+deleted_time: 1734790080584
+end_time: 1734789909731
+entry_point_name: ''
+experiment_id: '446451798096185065'
+lifecycle_stage: deleted
+run_id: 944f3442a3e94a32b27a9804e2f35206
+run_name: serious-roo-975
+run_uuid: 944f3442a3e94a32b27a9804e2f35206
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734789909584
+status: 4
+tags: []
+user_id: razinsurya

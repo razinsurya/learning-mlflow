@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/334a772573e44d41a166af4bece7e7ad/artifacts
+end_time: 1735299807526
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 334a772573e44d41a166af4bece7e7ad
+run_name: rambunctious-cat-518
+run_uuid: 334a772573e44d41a166af4bece7e7ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735299713110
+status: 3
+tags: []
+user_id: razinsurya
